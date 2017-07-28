@@ -1,0 +1,167 @@
+﻿<style type="text/css" > body {
+    background-color: darkgray;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: Roboto
+}
+
+.Title {
+    font-size: larger;
+    color: cadetblue;
+}
+
+.Subject {
+    color: black;
+    max-width: 300px;
+    font-weight: bold;
+    font-size: small;
+    word-wrap: break-word;
+}
+
+.Content {
+    color: black;
+    max-width: 300px;
+    font-size: small;
+    word-wrap: break-word;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.link {
+    color: cadetblue;
+    font-size: small;
+    text-decoration: none;
+}
+
+.Star {
+    width: 25px;
+    height: 25px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.Diamond {
+    width: 25px;
+    height: 25px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.Phone {
+    width: 25px;
+    height: 25px;
+    padding-top: 5px;
+    margin-right: 10px;
+}
+
+.Text_1 {
+    color: darkkhaki;
+    font-size: smaller;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    width: 300px;
+}
+
+.Text_2 {
+    color: cornflowerblue;
+    font-size: smaller;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.Price {
+    font-size: large;
+    text-align: left;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.Numbers {
+    color: black;
+    font-size: x-large;
+    text-align: left;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+.Table {
+    display: block;
+    background-color: white;
+    width: 100%;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+
+.Row {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    top: 0px;
+    height: 100%;
+    box-shadow: 1px 1px 20px gray;
+}
+
+.Cell {
+    display: inline-block;
+    position: relative;
+    vertical-align: text-top;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+.img {
+    position: relative;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.img_heart {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 0px 30px;
+    margin-top: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 3px #999;
+}
+
+    .button:hover {
+        background-color: #3e8e41
+    }
+
+    .button:active {
+        background-color: #3e8e41;
+        box-shadow: 0 1px #666;
+        transform: translateY(4px);
+    }
+
+    .button:disabled {
+        background-color: gray;
+    }
+
+</style >
